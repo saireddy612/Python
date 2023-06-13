@@ -1,0 +1,4 @@
+.pop()
+.popitem() -----------------> It will remove the last added item into the dictionary
+.clear()
+.del()
